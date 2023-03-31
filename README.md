@@ -1,2 +1,2 @@
 # Le-Mappe
-repository buat website sig yang dapat menampilkan peta administratif lampung dan juga fitur-fitur yang biasanya ada pada tipe website tersebut.
+Website UTS SIG yang akan menampilkan rumah ibadah di sekitar kota Bandarlampung yang dibuat menggunakan QGIS dan ditampilkan oleh Leaflet dan OpenStreetMaps
